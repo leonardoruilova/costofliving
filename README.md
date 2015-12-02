@@ -1,6 +1,6 @@
 # Cost of living
 
-This is the market basket in different countries, starting in South America, Chile. It includes: most commonly bought food, fruits and vegetables, tobacco, soft drinks, alcoholic drinks and other items, depending on the country's survey. 
+This is the market basket in different countries, starting in South America, Chile. It includes: most commonly bought food like rice, pastas, potatoes, fruits and vegetables, tobacco, soft drinks, alcoholic drinks and other items, depending on the country's survey. 
 
 
 Spanish: 
