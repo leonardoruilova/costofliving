@@ -1,7 +1,7 @@
-# costofliving
-canasta basica familiar en diferentes paises
+# Cost of living
 
-Este repositorio contiene informacion acerca del costo de vida, compilado en el archivo "canasta".
-El archivo "canasta" consiste en la denominada "Canasta Basica Familiar" de uso comun en Chile.
+This is the market basket in different countries, starting in South America, Chile. It includes: most commonly bought food, fruits and vegetables, tobacco, soft drinks, alcoholic drinks and other items, depending on the country's survey. 
 
-Es factible traducir dicho archivo a otros idiomas, asi como revelar los costos en otros paises.
+
+Spanish: 
+Esta es la canasta familiar básica que indica cuáles son los alimentos consumidos principalmente por las personas en diferentes países, entre los alimentos se consideran otros artículos. Como muestra se  en América del Sur, Chile. La canasta básica incluye diversos alimentos, frutas, verduras, tabaco, gaseosas y bebidas alcohólicas, de acuerdo a la economía de cada nación.
