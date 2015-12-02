@@ -1,4 +1,4 @@
-ALIMENTOS                   (Calle y SupMerc popular)		
+ALIMENTOS                   (Calle y SupMercado popular)		
 PAIS                        CL                    CL
 TIPO CAMBIO                 625	USD$
 ARROZ G2	            540                   0,864
