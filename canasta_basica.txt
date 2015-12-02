@@ -6,12 +6,12 @@ PAPAS,PATATAS Kg            540                   0,864
 POROTOS,JUDIAS              1400                  2,24
 LENTEJAS Kg                 900                   1,44
 CEBOLLAS		    700			  1,12
-LECHUGAS		    0			  0
-ZANAHORIAS		    0			  0
-FRUTAS			    
+LECHUGAS		    x			  x
+ZANAHORIAS		    x			  x
+FRUTAS			    x		          x 
 PALTAS,AGUACATES	    540			  0,864
-NARANJAS	540 	0,864
-LIMONES	540 	0,864
+NARANJAS		    540                   0,864
+LIMONES			    540			  0,864
 UVA	540 	0,864
 MANZANAS	540 	0,864
 PLATANOS		
