@@ -65,46 +65,45 @@ ACEITE			    540			  0,864
 MANTECA			    540		          0,864
 MARGARINA		    540			  0,864
 
-MOLINERIA Y PANADERIA	540 	0,864
-ARROZ	540 	0,864
-HARINA	540 	0,864
-HARINA	540 	0,864
-HARINILLA	540 	0,864
-PAN	540 	0,864
-PAN	540 	0,864
-GALLETAS	540 	0,864
-GALLETAS	540 	0,864
-FIDEOS	540 	0,864
-AZUCAR	540 	0,864
-OTROS	540 	0,864
-CAFE NESCAFE POLVO	540 	0,864
-CAFÉ POLVO BARATO	540 	0,864
-TE BOLSA KG	540 	0,864
-TE EN BOLSITAS	540 	0,864
-SAL FINA MESA	540 	0,864
-SOPAS EN SOBRE	350 	0,56
-JUGOS EN POLVO	540 	0,864
+MOLINERIA Y PANADERIA       540                   0,864
+ARROZ                       540                   0,864
+HARINA                      540                   0,864
+HARINA                      540                   0,864
+HARINILLA                   540                   0,864
+PAN                         540                   0,864
+GALLETA                     540                   0,864
+FIDEOS                      540                   0,864
+AZUCAR                      540                   0,864
+OTROS                       540                   0,864
+CAFE NESCAFE POLVO          540                   0,864
+CAFÉ POLVO BARATO           540                   0,864
+TE BOLSA KG                 540                   0,864
+TE EN BOLSITAS              540                   0,864
+SAL FINA MESA               540                   0,864
+SOPAS EN SOBRE              350                   0,56
+JUGOS EN POLVO              540                   0,864
+
 VINOS Y LICORES		
-PISCO	540 	0,864
-VINO CAJA	540 	0,864
-VINO CAJA	540 	0,864
-VINO CAJA	540 	0,864
-CHAMPAGNE	540 	0,864
-CEBADA MALTEADA	540 	0,864
-CERVEZA	540 	0,864
-CERVEZA	540 	0,864
-CERVEZA EN BARRIL	540 	0,864
+PISCO                       540                   0,864
+VINO CAJA                   540                   0,864
+CHAMPAGNE                   540                   0,864
+CEBADA MALTEADA             540                   0,864
+CERVEZA                     540                   0,864
+CERVEZA EN BARRIL           540                   0,864
+
 BEBIDAS		
-TARRO COCACOLA	540 	0,864
-AGUA MINERAL	540 	0,864
-COCACOLA	540 	0,864
-BEBIDAS	540 	0,864
-TABACO	540 	0,864
+TARRO COCACOLA              540                   0,864
+AGUA MINERAL                540                   0,864
+COCACOLA                    540                   0,864
+BEBIDAS                     540                   0,864
+
+TABACO                      540                   0,864
 KENT (20)	540 	0,864
-COMBUSTIBLES		
-GASOLINA ESPECIAL		0
-GASOLINA MEDIA		0
-GASOLINA CORRIENTE	540 	0,864
-PETROLEO DIESEL	540 	0,864
-PARAFINA	540 	0,864
-GAS LICUADO	540 	0,864
+
+COMBUSTIBLES
+GASOLINA ESPECIAL
+GASOLINA MEDIA
+GASOLINA CORRIENTE          540                   0,864
+PETROLEO DIESEL             540                   0,864
+PARAFINA                    540                   0,864
+GAS LICUADO                 540                   0,864
