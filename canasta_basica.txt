@@ -1,5 +1,6 @@
 ALIMENTOS                   (Calle y SuperMercado popular)		
 PAIS                        CL                    CL
+			    WORLD		  BTC
 TIPO CAMBIO                 625	USD$
 ARROZ G2	            540                   0,864
 PAPAS,PATATAS Kg            540                   0,864
